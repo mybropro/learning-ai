@@ -29,4 +29,6 @@ Here's what I know going into this. If your priors look similar, maybe you can t
 #### Important Goals/Benchmarks in the field:
 + The [Hutter Prize](https://en.wikipedia.org/wiki/Hutter_Prize) - $$$ for improving text compression. Idea behind this is that basically AI is just compression. "Predicing which characters are most likely to occur next in a text sequence requires vast real-world knowledge" [+](https://en.wikipedia.org/wiki/Hutter_Prize#Goals). Not sure if I agree, but seems reasonable. [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) is related to this, and that definitely makes sense.
 + MuZero - No prior knowledge given to model. The model was given an environment to play in, like a chess engine, and can play endlessly. It learns from this play, and can produce results that human players wouldn't expect. This seems like true learning, as opposed to mimicry.
++ GPT-3 - This is some sort of big web scraper that takes prompts and gives the likely response. No idea if they check syntax or how you setup a question answering model.
++ AlphaBlue - OG Chess AI that blew minds. Ended up not being the solution to AGI, but still monumental.
 
