@@ -2,10 +2,11 @@
 This is a repo for me to learn about/document/practice AI. It will not be exhaustive, it will not be perfect. But it should be a decent introduction and point to the next steps to take.
 
 #### Goals
-+ Understand the [historical timeline](HISTORY.md)
++ Understand the [historical timeline](TIMELINE.md)
 + What is the current state-of-the-art?
 + Differentiate between hype and reality in AI messaging. Who can actually provide value with "AI" and who is just very good at data pipelining?
 + Some example project that builds pracitcal skills.
++ Answer outstanding [questions](QUESTIONS.md)
 
 ### Priors
 Here's what I know going into this. If your priors look similar, maybe you can take this ride with me.
