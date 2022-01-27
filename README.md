@@ -1,8 +1,5 @@
 ## Learning about AI
-This is a repo for me to learn about/document/practice AI. It will not be exhaustive, it will not be perfect. But it should be a decent introduction and point to the next steps to take.
-
-# Learning AI
-Can't think of a good title for this, but I need to learn what's actually happening with AI research + product development. If your priors are similar to [mine](PRIORS.md), maybe you can learn something by following along.
+This is a repo for me to learn about/document/practice AI. I need to learn what's actually happening with AI research + product development. If your priors are similar to [mine](PRIORS.md), maybe you can learn something by following along.
 
 ## Goals
 + Understand the [historical timeline](TIMELINE.md)
