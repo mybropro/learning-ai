@@ -9,7 +9,7 @@ Here's what I know going into this. If your priors look similar, maybe you can t
 + CNN/RNN/SegNets - These are types of neural networks. How they work is probably still all matrix multiplication, but the wiring between nodes, number of nodes, number of layers between inputs and output nodes is different. Why different models matters is unclear, maybe they trade-off cost for accuracy, or maybe some are better at some applications. Why there isn't just a general network that works best is unclear? CPU is to general purpose compute as `???` is to general purpose intelligence?
 + ML Model - this is a neural network that has been trained on data, and the weights are locked in. Basically this is just a series of nodes, the path that information travels through the nodes, and the fixed weights that need to be used for operations. This is cool because the only thing that is going to change once you have a model is the input data. There's probably lots of optimizations once you have this static model.
 
-## Tools:
+## Tools I've heard about:
 + PyTorch, Tensorflow, Keras, etc - frameworks for training + inferring models.
 + TPU, GPU, ASICs - compute for models. Practically this is very important because you need efficient compute if you want AI/ML to be practical.
 
